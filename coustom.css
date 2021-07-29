@@ -1,0 +1,73 @@
+Body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+span{
+    color: #E76F51;
+}
+/* common css */
+
+
+h1{
+   
+    font-weight: 600;
+    font-size: 34px;
+}
+h6{
+    
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 14px;
+}
+p{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+/* heading sytle */
+
+.Honda-header-bg{
+    height: 720px;
+    background-color: #264653;
+}
+.btn-color{
+    background-color: #E76F51;
+    color: white;
+    width: 168px;
+    height: 44px;
+    border: 5px;
+    border-radius: 5px;
+}
+.feature-img{
+    filter: grayscale(100%);
+}
+.latest-button{
+    margin-top: 40px;
+    color: white;
+    background-color: #E76F51;
+    border: 1px solid #E76F51 ;
+    border-radius: 5px;
+    width: 160px;
+    height: 57px;
+
+}
+.client-review-img img{
+    width: 45%;
+    height: 149px;
+    margin-left: 86px;
+    margin-top: 40px;
+}
+
+.full{
+color:  #E77C40;
+}
+.Empty{
+  color: #E77C40;
+}
+.fqa img{
+    margin-left: 43px;
+    margin-bottom: 67px;
+    width: 80%;
+    height: 423px;
+}
